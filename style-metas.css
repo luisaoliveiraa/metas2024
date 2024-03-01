@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root{
+--cor-de-fundo:#e4b9e4;
+--verde:#99cbd8;
+--branco:#FFFFFF;
+--botao-ativo:#665ebe;
+--botao-inativo:#6760b680;
+--texto-fundo:#000000cc;
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(#FFFFFF);
+    font-family:'Lora';
+
+}
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.titulo-principal {
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+}
+.titulo-principal span{
+    color: var(--verde);
+}
