@@ -1,9 +1,9 @@
 :root {
-    --cor-de-fundo: #ca4545;
+    --cor-de-fundo: hwb(0 24% 19%);
     --verde: #ddda0b;
     --branco: #FFFFFF;
-    --botao-ativo: #cc4c4c;
-    --botao-inativo: #921313ce;
+    --botao-ativo: #a71e1e;
+    --botao-inativo: #hwb(0 24% 19%);
     --texto-fundo: #661501e3;
 }
 
