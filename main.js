@@ -40,7 +40,8 @@ if (tempoFinal > 0) {
     return "PRAZO ENCERRADO!"
     
 }
-function atualizaCronometro() {
+}
+function atualizaCronometro () {
     for (let i = 0; i < contadores.length; i++) {
         contadores[i].textContent = calculaTempo(tempo[i]);
     }
