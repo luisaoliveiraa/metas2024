@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root {
-   --cor-de-fundo: #000000;
-   --rosa: #b31aab;
+   --cor-de-fundo: #ffffff;
+   --rosa: #b31a1a;
    --branco: #FFFFFF;
-   --botao-ativo: #3A375E;
-   --botao-inativo: #3a375e80;
+   --botao-ativo: #c05151;
+   --botao-inativo: #b31a1a;
    --texto-fundo: #3a375e4d;
 }
 
