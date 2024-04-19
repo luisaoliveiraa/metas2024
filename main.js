@@ -41,7 +41,7 @@ if (tempoFinal > 0) {
     
 }
 function atualizaCronometro() {
-    for (let 1 = 0; 1 < contadores.length; 1++) {
+    for (let i = 0; i < contadores.length; i++) {
         contadores[1].textContent = calculaTempo(tempo[i]);
     }
     
